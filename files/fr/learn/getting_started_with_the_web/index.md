@@ -59,3 +59,5 @@ Une succession d'opérations complexes, dont vous n'avez pas forcément à vous 
 ## Voir aussi
 
 [Le Web démystifié ](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g): une grande série de vidéos expliquant les fondamentaux du Web, visant à parfaire des débutants dans le développement Web. Créée par [Jérémie Patonnier](https://twitter.com/JeremiePat).
+Go to the website https://www.touraine-eschool.fr click on https://ent.netocentre.fr/cas/login?service=https://www.touraine-eschool.fr/portail/Login&token=1f6a5655478c2f55c9c37207e46a6415 press https://educonnect.education.gouv.fr/idp/profile/SAML2/Redirect/SSO?execution=e2s1 press the student button identify yourself in the name of m.esposito43 and insert a password that is call Mumus@37 connect when you arrive on the site https://www.touraine-eschool.fr/portail/f/accueil/normal/render.uP press the 3 bars at the top left of the screen and press on the button https://0370022y.index-education.net/pronote/eleve.html?identifier=uk5JCKvgGbyjtqTY arrive on the site go to my notes and change the general average student
+:20.00
